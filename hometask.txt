@@ -1,3 +1,15 @@
 2. Они отличаются файлом README. В demo отсуствует "with nice buttons on his jacket (buttons branch)"
 
-
+4. 12 коммитов:
+    init
+    heat added
+    boots
+    README added
+    dots
+    fix readme
+    Merge remote-tracking branch 'origin/boots' into boots_buttons
+    Merge remote-tracking branch 'origin/buttons' into boots_buttons
+    Merge remote-tracking branch 'origin/hat'
+    Merge branch 'boots_buttons'
+    add hometask.txt
+    change hometask.txt
